@@ -1,0 +1,26 @@
+body{
+    display: Flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+button{
+    padding: 10px, 15px;
+    color:aquamarine;
+    background-color: brown;
+}
+input{
+    width: 84px;
+    padding: 7px;
+}
+#limpar{
+    width: 103px;
+}
+#ponto{
+    padding-right: 09px;
+
+}
+#adicao {
+    padding-left: 04.5px;
+}
